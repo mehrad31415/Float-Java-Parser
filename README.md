@@ -4,7 +4,11 @@ This is a small parser for Java Floating point numbers.
 The following steps have been taken:
 
 1 - Example *sentences* of the "Floating Point Numbers" *language* in Java are:
+
+
     1.2 , 1. , 0.23 , .42 , 0.42F , 0.3f , 12.4D , 199.3d , etc.
+    
+    
 2 - This is the *grammar* of Floating point numbers in Java. However, this is not the only solution and many grammars can lead to the same language.
 In other words, the mapping between *grammars* and *languages* is not injection (1-1). 
 
