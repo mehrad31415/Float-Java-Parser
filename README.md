@@ -1,5 +1,5 @@
 # Float-Java-Parser
-This is a small parser (in Haskell) for Java^Floating point numbers. 
+This is a small parser (in Haskell) for Java<sup>Floating</sup> point numbers. 
 
 The following steps have been taken:
 
@@ -24,7 +24,7 @@ IntPart           -> Sign? Digits
 FractPart         -> Digits
 ExponentPart      -> ExponentIndicator IntPart
 -- not left recursive
-Digits 		  -> Digit^{+}^
+Digits 		  -> Digit<sup>+</sup>
 ExponentIndicator -> e | E
 Sign              -> + | -
 FloatSuffix       -> f | F | d | D
