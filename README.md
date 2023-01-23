@@ -5,7 +5,8 @@
 <dt>The following steps have been taken:</dt>
 
 #### 1
-<dd>Example *sentences* of the "Floating Point Numbers" *language* in Java are:
+<dd>
+Example *sentences* of the "Floating Point Numbers" *language* in Java are:
 
 
     1.2 , 1. , 0.23 , .42 , 0.42F , 0.3f , 12.4D , 199.3d , etc.
