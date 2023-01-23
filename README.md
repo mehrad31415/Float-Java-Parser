@@ -1,5 +1,5 @@
 # Float-Java-Parser
-This is a small parser (in Haskell) for Java Floating point numbers. 
+This is a small parser (in Haskell) for Java^Floating point numbers. 
 
 The following steps have been taken:
 
