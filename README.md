@@ -24,7 +24,7 @@ IntPart           -> Sign? Digits
 FractPart         -> Digits
 ExponentPart      -> ExponentIndicator IntPart
 -- not left recursive
-Digits 		  -> Digit<sup>+</sup>
+Digits 		  -> Digit^+^
 ExponentIndicator -> e | E
 Sign              -> + | -
 FloatSuffix       -> f | F | d | D
