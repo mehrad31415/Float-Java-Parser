@@ -1,11 +1,10 @@
 # Float-Java-Parser
 <dl>
-<dt>This is a small parser (in Haskell) for Java Floating point numbers.</dt>
+<dt>This is a small parser (in Haskell) for Java Floating point numbers.
 
-<dt>The following steps have been taken:</dt>
+The following steps have been taken:</dt>
 
 #### 1
-<dd>
 Example *sentences* of the "Floating Point Numbers" *language* in Java are:
 
 
@@ -42,5 +41,4 @@ Furthermore, the generated grammar is left-factored (making the parsing more eff
 
 #### 4
 The parser type for floating point numbers will be *Parser Char FloatLiteral* where *FloatLiteral* is a self created data type. We further write the parser and the semantic functions by using our algebric data types.
-	</dd>
 </dl>
