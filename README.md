@@ -13,7 +13,7 @@ Example *sentences* of the "Floating Point Numbers" *language* in Java are:
 
 #### 2
 This is the *grammar* of Floating point numbers in Java. However, this is not the only solution and many grammars can lead to the same language.
-In other words, the mapping between *grammars* and *languages* is not injection (1-1). 
+In other words, the mapping between *grammars* and *languages* is not an injection (1-1). 
 
 ```
 FloatLiteral -> IntPart Z
